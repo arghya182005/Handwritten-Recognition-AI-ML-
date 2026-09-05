@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+.env
+*.h5
+!model/saved_model/README.md
+static/uploads/*
+!static/uploads/.gitkeep
+.DS_Store
+*.log
